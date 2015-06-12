@@ -4,3 +4,5 @@ Training repo for Git collaboration workshop
 with some poulpes
 # Yet another section
 With even more Poulpes !!!!!
+#my favorite colour
+Octocpus !!!!
